@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = SleepingKingStudios::ActsAsSluggable::VERSION
   s.authors     = ["Rob Smith"]
   s.email       = ["merlin@sleepingkingstudios.com"]
-  s.homepage    = "sleepingkingstudios.com"
+  s.homepage    = "http://www.sleepingkingstudios.com"
   s.summary     = "Automatically updates short \"slug\" string field."
   s.description = "#{s.summary}"
 
